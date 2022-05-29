@@ -58,7 +58,7 @@ post:
   pageview_measure: wyświetlenia
   read_time:
     unit: min
-    prompt: czas czytania
+    prompt: czas_czytania
   relate_posts: Podobne posty
   share: Share
   button:
